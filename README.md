@@ -1,3 +1,33 @@
+THIS IS THE POWER POINT PRESENTATION FOR IBM SKILL BUILD PROGRAMME WITH HEART ATTACK  PREDICTION MODEL      
+BELOW THERE IS JAVA CODE FOR THAT PREDICTION MODEL USING  IBM CLOUD 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import java.io.*;
 import java.net.MalformedURLException;
 import java.util.Base64;
